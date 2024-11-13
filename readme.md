@@ -21,7 +21,7 @@ A simple Rust command-line program for converting temperatures between Celsius a
 
     ```sh
     git clone https://github.com/imaazkhalid/temperature_unit_converter.git
-    cd temperature-converter
+    cd temperature_unit_converter
     ```
 
 2. Run the program with `cargo`:
