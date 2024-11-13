@@ -20,7 +20,7 @@ A simple Rust command-line program for converting temperatures between Celsius a
 1. Clone this repository:
 
     ```sh
-    git clone https://github.com/your-username/temperature-converter.git
+    git clone https://github.com/imaazkhalid/temperature_unit_converter.git
     cd temperature-converter
     ```
 
